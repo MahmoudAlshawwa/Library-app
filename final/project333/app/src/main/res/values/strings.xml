@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="create_book">Create Book</string>
+    <string name="create_category">Create Category</string>
+    <string name="library">Library</string>
+    <string name="favorites">Favorites</string>
+    <string name="category_name">Category Name</string>
+    <string name="create">CREATE</string>
+    <string-array name="Book">
+        <item> Book </item>
+    </string-array>
+</resources>
